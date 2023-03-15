@@ -518,7 +518,6 @@ public class Home extends javax.swing.JFrame {
         jTable1.setGridColor(new java.awt.Color(255, 255, 255));
         jTable1.setRowHeight(22);
         jScrollPane1.setViewportView(jTable1);
-
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
         jPanel6.setLayout(jPanel6Layout);
         jPanel6Layout.setHorizontalGroup(
